@@ -1,0 +1,10 @@
+{
+  "id": "passage-guide",
+  "name": "Passage Guide",
+  "version": "0.3.1",
+  "minAppVersion": "1.4.0",
+  "description": "Gather the commentaries, your notes, sermons, illustrations and books that touch a Bible passage into one sidebar, ordered by a priority list you control.",
+  "author": "Myoungcheul Joo",
+  "authorUrl": "https://pkm-institute.netlify.app",
+  "isDesktopOnly": false
+}
